@@ -1,0 +1,19 @@
+* {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.login-wrap {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.login-top {
+    height: 240px;
+    padding-top: 50px;
+    color: #fff;
+    text-align: center;
+    background: url("https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg") center 0 no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
